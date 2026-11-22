@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "事頭婆茶座 · 大水坑村人情味茶座",
+      "hasCanvas": false,
+      "bodyTextLen": 1441,
+      "bodyTextHash": "08f4d36f7b53e9699b25a06b84d8071448201cd80eb2879a3cb79042fe3a0759",
+      "bodyTextPrefix": "事 事頭婆茶座 大水坑村 · 朝早六點半 招牌美食 到會服務 店舖位置與營業時間 WhatsApp 落單 / 查詢 星期一、三至",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "事頭婆茶座 · 大水坑村人情味茶座",
+      "hasCanvas": false,
+      "bodyTextLen": 1433,
+      "bodyTextHash": "dfe89ecfdf408a371e8cc585371c257979a15990d6899d7a11678ca5585ebe06",
+      "bodyTextPrefix": "事 事頭婆茶座 大水坑村 · 朝早六點半 WhatsApp 招牌美食 到會服務 店舖位置與營業時間 星期一、三至日 06:30 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
